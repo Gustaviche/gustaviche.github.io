@@ -40,6 +40,12 @@ section h2 {
     margin-bottom: 10px;
 }
 
+section h3 {
+    font-size: 1.4em;
+    color: #007471;
+    margin-bottom: 8px;
+}
+
 section p {
     font-size: 1.1em;
     margin-bottom: 10px;
